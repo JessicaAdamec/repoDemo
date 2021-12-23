@@ -20,6 +20,7 @@ public class RepoDemoApplication {
 
         logger.debug("Hello from Logback {}", data);
         logger.info("HELLO FROM INFO");
+        logger.info("HELLO FROM UPDATED INFO");
 	}
 
 }
